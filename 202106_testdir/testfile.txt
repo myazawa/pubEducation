@@ -1,0 +1,4 @@
+"test" 
+encoding=utf-8
+あ
+
